@@ -2,9 +2,7 @@ package com.luthfi.responsi
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import com.zainul.responsi.R
 import kotlinx.android.synthetic.main.activity_detail.*
-import kotlinx.android.synthetic.main.user_layout.*
 import kotlinx.android.synthetic.main.user_layout.userName
 
 class DetailActivity : AppCompatActivity() {

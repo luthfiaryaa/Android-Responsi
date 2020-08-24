@@ -1,4 +1,4 @@
-package com.zainul.responsi
+package com.luthfi.responsi
 
 import org.junit.Test
 
